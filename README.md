@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @originalman
 - 👀 I’m CCNA certified looking to add cloud and web dev skills 
 - 🌱 I’m currently learning how to properly use cloud services 
-- 💞️ I’m looking to collaborate on video streaming services, CDN, IPTV and HLS projects 
+- 💞️ I’m looking to collaborate on music production also video streaming services, CDN, IPTV and HLS based projects 
 - 📫 How to reach me: TWITTER & INSTAGRAM - @wilakabubba
 
 
